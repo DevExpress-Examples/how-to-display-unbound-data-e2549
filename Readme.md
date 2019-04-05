@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/Display Unbound Data/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Display Unbound Data/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/Display Unbound Data/MainPage.xaml) (VB: [MainPage.xaml](./VB/Display Unbound Data/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/Display Unbound Data/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Display Unbound Data/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Display Unbound Data
